@@ -1,0 +1,27 @@
+.app-Container {
+  display: flex;
+}
+
+.heroSection {
+  width: 100%;
+}
+
+.sidebar {
+  height: 80vh;
+}
+
+.post-container {
+  margin-top: 2%;
+}
+
+.form-design {
+  margin: 30px;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.tags {
+  margin: 3px;
+}
